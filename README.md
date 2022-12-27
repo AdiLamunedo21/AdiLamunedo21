@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AdiLamunedo21
-- 👀 I’m interested in web dev and want to game dev
 - 🌱 I’m currently learning web dev for now
 - 💞️ I’m looking to collaborate on me
 - 📫 How to reach me "hi"
