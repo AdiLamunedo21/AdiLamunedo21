@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdiLamunedo21
+- 👋 Hi, I’m @Adi_Lamunedo21
 - 🌱 I’m currently learning web dev for now
 - 💞️ I’m looking to collaborate on me
 - 📫 How to reach me "hi"
